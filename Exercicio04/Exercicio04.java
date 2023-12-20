@@ -25,5 +25,6 @@ public class Exercicio04 {
         mediaGeometricaNumeros = Math.cbrt(primeiroNumero * segundoNumero * terceiroNumero);
 
         System.out.println(mediaGeometricaNumeros);
+        input.close();
     }
 }

@@ -25,5 +25,6 @@ public class Exercicio03 {
 
         System.out.printf("A média entre as notas %.2f, %.2f e %.2f é = %.2f",
                 primeiraNota, segundaNota, terceiraNota, mediaNotas);
+        input.close();
     }
 }

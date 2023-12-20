@@ -1,6 +1,7 @@
-//Escreva um programa que calcule a média geométrica entre três números informados pelo usuário
-package Exercicios100.Exercicio04;
+/*Escreva um programa que calcule a média geométrica entre três números
+* informados pelo usuário*/
 
+package Exercicios100.Exercicio04;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,6 @@
-//Crie um programa que calcule e exiba a média aritmética de três notas informadas pelo usuário.
+/*Crie um programa que calcule e exiba a média aritmética de três notas
+* informadas pelo usuário.*/
+
 package Exercicios100.Exercicio03;
 
 import java.util.Locale;

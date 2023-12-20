@@ -1,4 +1,5 @@
 //Escreva um programa que calcule a média aritmética de dois números.
+
 package Exercicios100.Exercicio02;
 
 import java.util.Locale;

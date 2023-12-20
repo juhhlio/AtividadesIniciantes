@@ -5,7 +5,7 @@
 
 3. Crie um programa que calcule e exiba a média aritmética de três notas informadas pelo usuário. 
 
-4. Escreva um programa que calcule a média geométrica entre três números informados pelo usuário 
+4. Escreva um programa que calcule a média geometrica entre três números informados pelo usuário 
 
 5. Escreva um programa que calcule o IMC de um indivíduo, utilizando a fórmula IMC = peso / altura² 
 

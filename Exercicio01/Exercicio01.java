@@ -1,4 +1,6 @@
-package Exercicios100;
+/*Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração,
+ *multiplicação e divisão entre eles.*/
+package Exercicios100.Exercicio01;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -10,7 +10,7 @@ public class Exercicio20 {
         Scanner input = new Scanner(System.in);
 
         String palavraNormal;
-        boolean polindromo = true;
+        boolean palindromo = true;
 
         System.out.print("Digite uma palavra: ");
         palavraNormal = input.nextLine().toLowerCase().replace(" ", "");
@@ -19,12 +19,12 @@ public class Exercicio20 {
             char a = palavraNormal.charAt(i);
             char b = palavraNormal.charAt(palavraNormal.length() - i - 1);
             if (a != b) {
-                polindromo = false;
+                palindromo = false;
                 System.out.println("Não é palindrome");
                 break;
             }
         }
-        if (polindromo){
+        if (palindromo){
             System.out.println("É palindrome");
         }
         input.close();

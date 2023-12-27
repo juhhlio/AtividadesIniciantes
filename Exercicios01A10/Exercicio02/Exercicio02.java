@@ -1,6 +1,6 @@
 //Escreva um programa que calcule a média aritmética de dois números.
 
-package Exercicios100.Exercicios1A10.Exercicio02;
+package Exercicios100.Exercicios01A10.Exercicio02;
 
 import java.util.Locale;
 import java.util.Scanner;

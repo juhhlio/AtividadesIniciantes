@@ -1,7 +1,7 @@
 /*Escreva um programa que calcule a área de um círculo a partir do raio,
 * utilizando a fórmula A = πr² */
 
-package Exercicios100.Exercicios1A10.Exercicio07;
+package Exercicios100.Exercicios01A10.Exercicio07;
 
 import java.util.Locale;
 import java.util.Scanner;

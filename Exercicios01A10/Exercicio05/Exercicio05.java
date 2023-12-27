@@ -1,7 +1,7 @@
 /*Escreva um programa que calcule o IMC de um indivíduo, utilizando a
 * fórmula IMC = peso / altura²*/
 
-package Exercicios100.Exercicios1A10.Exercicio05;
+package Exercicios100.Exercicios01A10.Exercicio05;
 
 import java.util.Locale;
 import java.util.Scanner;

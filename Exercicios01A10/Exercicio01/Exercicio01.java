@@ -1,7 +1,7 @@
 /*Escreva um programa que solicite ao usuário dois números e exiba a
 * soma, subtração, multiplicação e divisão entre eles.*/
 
-package Exercicios100.Exercicios1A10.Exercicio01;
+package Exercicios100.Exercicios01A10.Exercicio01;
 
 import java.util.Locale;
 import java.util.Scanner;

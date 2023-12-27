@@ -1,7 +1,7 @@
 /*Escreva um programa que calcule o delta de uma equação de segundo
 * grau (Δ = b² - 4ac)*/
 
-package Exercicios100.Exercicios1A10.Exercicio08;
+package Exercicios100.Exercicios01A10.Exercicio08;
 
 import java.util.Locale;
 import java.util.Scanner;

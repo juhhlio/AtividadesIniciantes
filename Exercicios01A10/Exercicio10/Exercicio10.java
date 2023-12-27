@@ -2,7 +2,7 @@
 * utilizando as fórmulas P = a + b + c e A = (b * h) / 2, onde a, b e c são os lados
 * do triângulo e h é a altura relativa ao lado b.*/
 
-package Exercicios100.Exercicios1A10.Exercicio10;
+package Exercicios100.Exercicios01A10.Exercicio10;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -2,7 +2,7 @@
 * utilizando as fórmulas P = 2(l + c) e A = lc, onde l é a largura e c é o
 * comprimento*/
 
-package Exercicios100.Exercicios1A10.Exercicio09;
+package Exercicios100.Exercicios01A10.Exercicio09;
 
 import java.util.Locale;
 import java.util.Scanner;

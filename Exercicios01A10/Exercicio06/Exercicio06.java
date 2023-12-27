@@ -1,7 +1,7 @@
 /*Crie um programa que calcule e exiba o perímetro de um
 * círculo, solicitando o raio ao usuário. */
 
-package Exercicios100.Exercicios1A10.Exercicio06;
+package Exercicios100.Exercicios01A10.Exercicio06;
 
 import java.util.Locale;
 import java.util.Scanner;

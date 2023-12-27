@@ -1,7 +1,7 @@
 /*Crie um programa que calcule e exiba a média aritmética de três notas
 * informadas pelo usuário.*/
 
-package Exercicios100.Exercicios1A10.Exercicio03;
+package Exercicios100.Exercicios01A10.Exercicio03;
 
 import java.util.Locale;
 import java.util.Scanner;
